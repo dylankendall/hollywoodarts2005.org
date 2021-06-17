@@ -1,0 +1,50 @@
+body { color: #3c444c; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-style: normal; }
+p { color: #3c444c; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-style: normal; }
+td { color: #3c444c; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-style: normal; }
+h1 { color: #3c444c; font-size: 18px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; }
+h2 { color: #3c444c; font-size: 16px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; }
+h3 { color: #c51d1d; font-size: 14px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; }
+h4 { color: #333; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; }
+.head3 { color: #c51d1d; font-size: 14px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; line-height: 16px; }
+.head3a { color: #c51d1d; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; line-height: 14px; }
+.head4 { color: #3c444c; font-size: 14px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; }
+.head5 { color: #3c444c; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; }
+.head6a { color: #c51d1d; font-size: 10px; font-family: Georgia, "Times New Roman", Times, serif; font-weight: bold; }
+.programs { color: #101010; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 14px; }
+.sidebar { color: #516f83; font-size: 11px; font-family: Georgia, "Times New Roman", Times, serif; line-height: 18px; }
+a:link { color: #516f83; font-weight: bold; text-decoration: underline; }
+a:visited { color: #516f83; font-weight: bold; text-decoration: underline; }
+a:hover { color: #516f83; font-weight: bold; text-decoration: none; }
+a:active { color: #516f83; font-weight: bold; text-decoration: underline; }
+.small-bold { color: #516f83; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
+.footer-menu { color: #516f83; font-size: 9px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
+.footer-ragtag { color: #516f83; font-size: 8px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
+.small { color: #3c444c; font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-style: normal; font-weight: normal; }
+.xsmall { color: #3c444c; font-size: 9px; font-family: Verdana, Arial, Helvetica, sans-serif; font-style: normal; font-weight: normal; }
+.sidebar-large { color: #3c444c; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; font-style: normal; font-weight: normal; line-height: 16px; }
+.stories { color: #3c444c; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; font-style: italic; font-weight: normal; line-height: 16px; background-color: #d8e2e6; padding: 6px; }
+.supporters { color: #3c444c; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; font-style: normal; font-weight: normal; line-height: 16px; }
+.nameslist { color: #3c444c; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; font-style: normal; font-weight: normal; line-height: 18px; }
+.loading { color: #a2b8cd; font-size: 10px; font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif; text-decoration: blink; }
+
+/*
+     FILE ARCHIVED ON 07:02:14 Aug 15, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:01:10 Jun 16, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 156.209
+  exclusion.robots: 0.16
+  exclusion.robots.policy: 0.153
+  RedisCDXSource: 4.203
+  esindex: 0.007
+  LoadShardBlock: 130.705 (3)
+  PetaboxLoader3.datanode: 161.653 (4)
+  CDXLines.iter: 18.991 (3)
+  load_resource: 119.612
+  PetaboxLoader3.resolve: 46.725
+*/
