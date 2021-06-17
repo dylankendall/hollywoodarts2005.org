@@ -2,6 +2,7 @@
 
 <head>
 
+    <link href="./assets/images/fav-ico.png" rel="shortcut icon">
     <script type="text/javascript" src="./assets/js/playback.bundle.js" charset="utf-8"></script>
     <script type="text/javascript" src="./assets/js/wombat.js" charset="utf-8"></script>
 
@@ -63,6 +64,45 @@
         //-->
     </script>
     <link href="./assets/css/basic.css" rel="stylesheet" type="text/css" media="all">
+
+
+    <csactionitem name="c025e47212"></csactionitem>
+    <csactionitem name="c025e47213"></csactionitem>
+    <csactionitem name="c025e47214"></csactionitem>
+    <csactions>
+        <csaction name="c025e47212" class="IEboxRemover" type="onload"></csaction>
+        <csaction name="c025e47213" class="Netscape CSS Fix" type="onload"></csaction>
+        <csaction name="c025e47214" class="IE PNG Fix" type="onload"></csaction>
+    </csactions>
+    <csscriptdict import>
+        <script type="text/javascript" src="./assets/js/CSScriptLib.js"></script>
+    </csscriptdict>
+    <csactiondict>
+        <script type="text/javascript">
+            CSInit[CSInit.length] = new Array(CSRemoveIEbox);
+            CSInit[CSInit.length] = new Array(CSNSFix);
+            CSInit[CSInit.length] = new Array(CSIEPNGFix);
+            var preloadFlag = true;
+
+            // -->
+        </script>
+    </csactiondict>
+    <csimport user="../web-data/Components/nav-top.html" occur="63">
+        <csactions>
+            <csaction name="c23c34d90" class="IEboxRemover" type="onload"></csaction>
+            <csaction name="c23c34d91" class="Netscape CSS Fix" type="onload"></csaction>
+        </csactions>
+        <csactiondict>
+            <script type="text/javascript">
+                CSInit[CSInit.length] = new Array(CSRemoveIEbox);
+                CSInit[CSInit.length] = new Array(CSNSFix);
+
+                // -->
+            </script>
+        </csactiondict>
+        <csactionitem name="c23c34d90"></csactionitem>
+        <csactionitem name="c23c34d91"></csactionitem>
+    </csimport>
 
 </head>
 
